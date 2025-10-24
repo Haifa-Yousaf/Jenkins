@@ -33,7 +33,7 @@ echo "Running unit tests...";
 }
 }
 
-stage(&#39;Deploy&#39;) {
+stage("Deploy") {
 
 steps {
 echo "Deploying application..."
